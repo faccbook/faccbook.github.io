@@ -1,4 +1,4 @@
-## FacCbook
+## Fac Cbook
 
 ```
 8888888888                 .d8888b.  888                        888      
@@ -11,4 +11,4 @@
 888     "Y888888  "Y8888P  "Y8888P"  88888P"   "Y88P"   "Y88P"  888  888
 ```
 
-Welcome to my website!
+Welcome to the official website for the Fac Cbook project!
